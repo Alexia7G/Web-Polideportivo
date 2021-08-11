@@ -1,0 +1,148 @@
+.nav {
+	padding-left: 7.5%;
+}
+
+.fecha {
+	font-size: 120%;
+	color: #05b977;
+	width: 60%;
+}
+
+.form-floating::before {
+	font-family: "Font Awesome\ 5 free";
+	position: absolute;
+	left: 14px;
+	font-size: 160%;
+	padding-top: 9px;
+}
+
+.btn {
+	margin-left: 20%;
+	width: 85%;
+}
+
+p {
+	border: 1px solid #50caab !important;
+	border-radius: 10px;
+	margin-top: -2%;
+	padding: 4%;
+	font-size: 100%;
+	color: #05b977;
+	font-weight: 400;
+}
+
+.tam {
+	width: 23%;
+}
+
+.formulario {
+	border: 1px solid #86d4c0 !important;
+	border-radius: 20px;
+	margin-left: 10%;
+	margin-right: -3%;
+	width: 90%;
+}
+
+.form-control {
+	width: 45%;
+	border: 1px solid #05b977 !important;
+	border-radius: 10px !important;
+}
+
+.form-control:focus {
+	border-color: #05b977;
+	box-shadow: inset 0 1px 1px #05b977, 0 0 5px #05b977;
+}
+
+.form-select {
+	width: 45%;
+	border: 1px solid #05b977 !important;
+	border-radius: 10px !important;
+	margin-top: -4px;
+	color: #718481;
+}
+
+.form-select:focus {
+	border-color: #05b977;
+	box-shadow: inset 0 1px 1px #05b977, 0 0 5px #05b977;
+}
+
+.equipos {
+	color: #05b977;
+    font-size: 120%;
+}
+.ui-widget.ui-widget-content {
+	border: 1px solid #05b977;
+}
+
+.ui-widget-content {
+	color: #05b977 !important;
+}
+
+.ui-widget-header {
+	border: none !important;
+	background: #a3ccbf4f !important;
+	color: #05b977 !important;
+}
+
+.ui-state-default, .ui-widget-content .ui-state-default,
+	.ui-widget-header .ui-state-default, .ui-button, html .ui-button.ui-state-disabled:hover,
+	html .ui-button.ui-state-disabled:active {
+	border: none !important;
+	background: none !important;
+	text-align: center !important;
+}
+
+.ui-state-highlight, .ui-widget-content .ui-state-highlight,
+	.ui-widget-header .ui-state-highlight {
+	border: none !important;
+	background: none !important;
+	color: #06734b !important;
+	color: #05b977 !important;
+	border-radius: 100% !important;
+	text-align: center !important;
+	font-weight: 600 !important;
+}
+
+.ui-state-active, .ui-widget-content .ui-state-active, .ui-widget-header .ui-state-active,
+	a.ui-button:active, .ui-button:active, .ui-button.ui-state-active:hover
+	{
+	border: 1px solid #359678 !important;
+	background: #e2efeb !important;
+	color: #05b977 !important;
+	border-radius: 100% !important;
+}
+
+.ui-state-hover, .ui-widget-content .ui-state-hover, .ui-widget-header .ui-state-hover,
+	ui-state-focus, .ui.widget-content, .ui-state-focus, .ui.widget-header,
+	.ui-state-focus, .ui-button:hover, .ui-button:focus {
+	border-radius: 100% !important;
+}
+
+.removerInput{
+	font-size: 40%;
+    margin-left: -5% !important;
+    width: 4% !important;
+    border-radius: 40%;
+    background-color: #d2d8d6;
+}
+
+.btn-equipos{
+	background-color: #198754 !important;
+	color: #ffffff !important;
+	width: 25% !important;
+    font-size: 90%;
+    margin: 0 !important;
+	
+}
+
+.btn-equipos:hover {
+    color: #198754 !important;
+    background-color: #e2e2e2!important;
+    border-color: #198754 !important;
+}
+
+.modal-content {
+	width: 70%;
+}
+
